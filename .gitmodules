@@ -1,0 +1,6 @@
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/kromate/rust_tutorial.git
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = https://github.com/kromate/rust_tutorial.git
